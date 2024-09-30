@@ -8,14 +8,9 @@ In this project, I worked with input fields, fieldset, and buttons with attribut
 
 ### Tech Stack
 
-Core:
--HTML
--CSS
--JS
+Core: HTML, CSS, JS
 
-Communication Tools:
--fetch
--img src
+Communication Tools: fetch, img src
 
 ## Preview
-
+<img width="1434" alt="preview" src="https://github.com/user-attachments/assets/fccf94fc-d37c-4843-b374-6bad7f58cf8c">
