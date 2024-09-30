@@ -12,5 +12,9 @@ Core: HTML, CSS, JS
 
 Communication Tools: fetch, img src
 
+### QR Code API / Documentation
+
+https://goqr.me/api/
+
 ## Preview
 <img width="1434" alt="preview" src="https://github.com/user-attachments/assets/fccf94fc-d37c-4843-b374-6bad7f58cf8c">
